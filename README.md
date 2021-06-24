@@ -7,4 +7,6 @@
 
 # Languages 🖥️
 <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="40"> - [[PY](https://www.python.org/)]
-img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/visualstudio/visualstudio-plain.svg" width="50"> - [[VStudio](https://visualstudio.microsoft.com/)]
+
+# Programs 🖥️
+<img src ="https://blog.leonhassan.co.uk/content/images/2019/06/visual-studio-code.svg" width="50"> - [[VsCode](https://code.visualstudio.com/)]
